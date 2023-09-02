@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tinajih Taylort</title>
+</head>
+<body>
+  <h1>Tinajih Taylor</h1>  
+  <img src="images/london.webp" alt="image of london"width="60%">
+  <figure>
+    <img src="images/london.webp" alt="image of london"width="45%">
+    <img src="images/london.webp" alt="image of london"width=45%>
+    <figcaption><em>Image of london</em></figcaption>
+    <figure>
+        <h2>Follow us</h2>
+    </figure>
+    
+  
+       <a href="www.tiktok" target="_blank"></a>
+        <img src="images/tiktok" alt="image of tiktok" width="50px">
+    </a>
+   
+    <a href="www.instagram" target="_blank" rel="noopener noreferrer"></a>
+    <img src="images/insta" alt="imaga of instagram" width="50px">
+
+    <a href="www.twiter" target="_blank" rel="noopener noreferrer"></a>
+    <img src="images/" alt="image of twitter"width="50px">
+</figure>
+
+<h2>links</h2>
+<p>vist Qcc website By <a href="http://www.qcc.cuny.edu" target="_blank" rel="noopener noreferrer">CLICL HERE</a></p>
+<a href="tel:+1805249654">call us</a>
+ <a href="mailto:hwu@qcc.cuny.edu">email to prof.wu></a>
+  <h2> align=" center">Tv Shows</h2>  
+  <img src="images/criminal.jpg" alt="image of criminal minds">
+  <img src="images/walking dead.jpg" alt="image of the walking dead">
+  <img src="images/supernatural.jpg" alt="image of supernatural">
+<img src="images/prison break.jpg" alt="image of prison break"> 
+<h2>These four shows are in my top favorites binged shows. Criminal minds is about an elite group of FBI profilers who study the nation's most depraved criminal brains to predict their next actions before they commit new crimes.The walkind dead is about agroup of people who come together and tries to navigate this new world where thier amongest walker aka zombies. Supernatural is about two brothers travelling across the country saving people and hunting supernatural cretures. Prison Break is about Michael Scofield is a man who wishes to help his brother's escape from the prison where he has been imprisoned (Lincoln Burrows, who believes he is innocent). He sets up a holdup in order to be held in the same prison because of this it shows the escape plan  throughout the first season. </h2>
+
+</body> 
+</html>
