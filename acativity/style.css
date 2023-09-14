@@ -1,0 +1,45 @@
+*{box-sizing: border-box;}
+.title{
+    text-align: center;
+    padding: 1em;
+    background-color: darkgreen;
+}
+.navHoz{
+    background-color: rgb(49, 139, 139);
+    display: flex;
+    flex-wrap: wrap;
+}
+.navHoz a{
+    color: rgb(0, 172, 23);
+    display: inline-block;
+    padding: 1em 3em;
+    text-decoration: none;
+    width: 33%;
+    text-align: center;
+}
+.navHoz a:hover{
+    background-color: blueviolet;
+    font-weight: bolder;
+    box-shadow:  0px 0px 5px 1px;
+}
+/*---VERTICAL NAV TABS */
+.navVertical{
+    background-color: greenyellow;
+    width: 200px;
+}
+.navVertical a{
+    display: block;
+    text-align: center;
+    padding: 2em;
+    text-decoration: none;
+    color: blueviolet;
+}
+.navVertical a:hover{
+    background-color: rgb(90, 118, 170);
+    font-weight: bolder;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(52, 94, 11);
+    padding: 1em;}
