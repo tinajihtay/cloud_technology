@@ -1,0 +1,94 @@
+*{box-sizing: border-box;}
+html{
+    scroll-behavior: smooth;
+
+}
+.navBar{background-color: black;
+color: blueviolet;
+}
+.nav_link{
+    color: darkmagenta ;
+    display: inline-block;
+    padding: 1em 2em;
+    font-size: 1.3em;
+    text-decoration: none;
+}
+
+.nav_link:hover{
+    color: coral;
+    background-color: darkorange;
+    font-weight: 900;
+}
+.container{
+    background-color: cadetblue;
+    padding: 5em;
+}
+.img.container{
+    width: 80%;
+    margin: 2% auto;
+    border: ridge rgb(10, 114, 74) 1.5em;
+}
+img{
+    width: 100%;
+    display: block;
+
+}
+.title{
+    text-align: center;
+    position: absolute;
+    top: 2%;
+    left: 5%;
+    right: 5%;
+    color: aquamarine;
+    font-size: 3em;
+    font-family:" Arial Black"
+}
+.p{
+    position: absolute;
+    top: 0%;
+    left: 2%;
+    font-style: italic;
+    font-size: 1.1em;
+}
+.p2{
+    position: absolute;
+    right: 2%;
+    bottom: 40%;
+    font-style: italic;
+    font-size: 1.1em;
+}
+.container2{
+    background-color: coral;
+    display: flex;
+    flex-wrap: wrap;
+}
+.img_cont2{
+    width: 28%;
+    margin: 5% 2%;
+}
+.sepia1{filter: sepia(10%);
+}
+.sepia2{
+    filter: sepia(60%);
+}
+.sepia3{
+    filter: sepia(100%);
+}
+.Blur1{
+    filter: blur(1px);
+}
+.Blur2{
+    filter: blur(5px);
+}
+.Blur3{
+    filter: blur(20px);
+}
+.invert{
+    filter: invert(2%);
+}
+.invert2{
+    filter: invert(40%);
+}
+.invert3{
+    filter: invert(100);
+}
