@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TiNajih Taylor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navBar">
+        <a href="#" class=" nav_link"> Home </a>
+        <a href="#Sepia" class=" nav_link">Sepia filiter</a>
+        <a href="#Blur" class=" nav_link"> Blur filiter</a>
+        <a href="#invert" class=" nav_link"> invert images </a>
+    </nav>
+    <section class=" container">
+        <div class="img_container"> 
+            <img src="images/leaves.jpg" alt=" picture of leaves on the floor">
+       </div> 
+
+       <h1 id="sepia">sepia filter</h1>
+        <section class="container2">
+            <div class="img_cont2">
+            <img src="images/leaves.jpg" alt=" images of leaves on the floor" class="sepia1">
+            
+    <h1 class="title"> Leaves </h1>
+    <p class="p1">Beautiful leaves!</p>
+    <p class="p2"> Amazing View</p>
+        </section>
+
+        <h1 id="Blur"> Blur filiter</h1>
+        <section class="container2">
+           <div class="img_cont2">
+           <img src="images/sunset.jpg" alt="sunset" class="Blur1">
+       </div>
+     
+
+
+
+       </div>
+       
