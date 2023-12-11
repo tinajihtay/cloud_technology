@@ -17,13 +17,14 @@ transition: ease-in-out 3s;}
 
 
 
-.intro{
+.Intro{
     box-shadow: 2px 2px 5px black;
-    margin: 7em auto;
+    margin: 1em auto;
     border-radius: 1em;
     overflow: hidden;
     position: relative;
-    width: 60%;}
+    width: 60%;
+background-color: gray;}
 
 .navHoz{
     background-color: rgb(49, 139, 139);
@@ -49,8 +50,20 @@ img{
     display: block;
 }
 .testing{
-    width: 50%;
-    margin: auto;
+    width: 30%;
+    margin-right: auto;
+    padding-left: 9em;
+}
+.introtext{
+    font-size: 1em;
+    font-family: Cambria;
+    padding-bottom: 2.1em;
+    padding-right:1em ;
+    margin: 2em;
+    color: rgb(27, 121, 27);
+    background-color: bisque;
+    border-radius: 1em;
+    border-color: black;
 }
 
 
