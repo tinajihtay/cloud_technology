@@ -66,24 +66,44 @@ img{
     border-color: black;
 }
 
-.img1{
-    width: 120px;
-    margin-left: auto;
+.see1{
+    width:50%;
+    margin-top: auto;
+}
+.see2{
+    width: 50%;
+    
 }
 
-.img2{
-    width:130px;
+.see3{
+    width: 50%;
+    margin: bottom 5px; ;
+}
+
+.see4{
+    width: 50%;
+  margin: left 50px;
+}
+
+.img1{
+    width: 150px;
     margin-right: auto;
 }
 
+.img2{
+    width:150px;
+    margin-left: auto;
+    
+}
+
 .img3{
-    width:120px ;
+    width:150px;
     margin-top: auto;
 
 }
 
 .img4{
-    width: 120px;
+    width: 150px;
     margin-right: auto;
     margin-bottom: auto;
 }
