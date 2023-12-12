@@ -66,6 +66,27 @@ img{
     border-color: black;
 }
 
+.img1{
+    width: 120px;
+    margin-left: auto;
+}
+
+.img2{
+    width:130px;
+    margin-right: auto;
+}
+
+.img3{
+    width:120px ;
+    margin-top: auto;
+
+}
+
+.img4{
+    width: 120px;
+    margin-right: auto;
+    margin-bottom: auto;
+}
 
 
 
