@@ -29,7 +29,7 @@ transition: ease-in-out 3s;}
     display: inline-block;
     padding: 1em 3em;
     text-decoration: none;
-    width: 33%;
+    width: 25%;
     text-align: center;
 }
 .navHoz a:hover{
@@ -112,7 +112,7 @@ img{
     overflow: hidden;
     margin: 1em;
     transition: ease 300ms;
-    margin-right:auto
+    margin-left:32%;
     }
 .na2{
     width: 35%;
@@ -284,32 +284,6 @@ img{
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .navHoz{
     background-color: darkgreen;
    font-size: large;
@@ -320,4 +294,20 @@ img{
 .taylor{
 width: 2px;
 height:2px;
+}
+.email{
+ font-size: 1.5em;
+ color: green;
+ margin: 2%;
+
+}
+.Adress{
+    font-size: 1.5em;
+    color: green;
+    margin: 2%;
+}
+.phone{
+    font-size: 1.5em;
+    color: green;
+    margin: 2%;
 }
