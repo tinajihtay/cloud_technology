@@ -22,6 +22,7 @@ transition: ease-in-out 3s;}
     background-color: rgb(49, 139, 139);
     display: flex;
     flex-wrap: wrap;
+    text-align: center;
 }
 .navHoz a{
     color: rgb(0, 172, 23);
@@ -35,6 +36,7 @@ transition: ease-in-out 3s;}
     background-color: blueviolet;
     font-weight: bolder;
     box-shadow:  0px 0px 5px 1px;
+    text-align: center;
 }
 
 img{
@@ -56,6 +58,7 @@ img{
     background-color: bisque;
     border-radius: 1em;
     border-color: black;
+    margin-left: auto;
 }
 
 .see1{
@@ -78,9 +81,82 @@ img{
 }
 
 .img1{
-    width: 150px;
-    margin-right: auto;
+    width: 45%;
+    box-shadow: 1px 1px 5px rgb(16, 128, 6);
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 1em;
+    transition: ease 300ms;
 }
+
+.container1{
+
+    width: 75%;
+    box-shadow: 1px 1px 5px rgb(16, 128, 6);
+    position: relative;
+    overflow: hidden;
+    margin: 1em;
+    transition: ease 300ms;
+    float: right;;
+    
+
+}
+
+
+.na1{
+    width: 35%;
+    box-shadow: 1px 1px 5px rgb(16, 128, 6);
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 1em;
+    transition: ease 300ms;
+    margin-right:auto
+    }
+.na2{
+    width: 35%;
+    box-shadow: 1px 1px 5px rgb(16, 128, 6);
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 1em;
+    transition: ease 300ms;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+    
+.ok{
+    width: 45%;
+    box-shadow: 1px 1px 5px rgb(16, 128, 6);
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 1em;
+    transition: ease 300ms;
+
+}
+
+.email{
+    font-size: 1em;
+    font-family: Cambria;
+    padding-bottom: 1em;
+    padding-right:1em ;
+
+}
+.m{width: 45%;
+    box-shadow: 1px 1px 5px rgb(16, 128, 6);
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 1em;
+    transition: ease 300ms;
+
+}
+
+
+
+
 
 .img2{
     width:150px;
@@ -115,6 +191,97 @@ img{
 .CW{
     text-align: center;
     background-color: green;
+}
+
+.tk{
+    width: 45%;
+    box-shadow: 1px 1px 5px rgb(16, 128, 6);
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 1em;
+    transition: ease 300ms;
+}
+
+
+.tk2{
+    width: 45%;
+    box-shadow: 1px 1px 5px rgb(233, 6, 112);
+    position: relative;
+    
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 1em;
+    transition: ease 300ms;
+
+}
+
+
+.im.tk.tk2{
+    width: 75%;
+    box-shadow: 1px 1px 5px rgb(5, 5, 5);
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 1em;
+    transition: ease 300ms;
+}
+
+.im{
+    width: 75%;
+    box-shadow: 1px 1px 5px rgb(5, 5, 5);
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 1em;
+    transition: ease 300ms;
+}
+
+.li{
+    width: 25%;
+    box-shadow: 1px 1px 5px rgb(5, 5, 5);
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 1em;
+    transition: ease 300ms;
+    
+    
+}
+
+.g4{
+    width: 45%;
+    box-shadow: 1px 1px 5px rgb(5, 5, 5);
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 1em;
+    transition: ease 300ms;
+
+}
+    
+    
+
+
+.gg5{
+    width: 55%;
+    box-shadow: 1px 1px 5px rgb(5, 5, 5);
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 1em;
+    transition: ease 300ms;
+}
+
+.li{
+    width: 45px;;
+    height: fit-content;
+
+    width: 50%;
+    height: fit-content;
+    
+    margin-right: auto;
+
 }
 
 
